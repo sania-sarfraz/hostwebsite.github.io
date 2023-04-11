@@ -175,3 +175,18 @@ input{
 
 }
 
+@media only scrren and(max-width:786px) {
+    .card{
+        float:left;
+        margin-left:0px;
+        justify-content:center;
+        display:flex;
+        width:20rem;
+
+    }
+    .navbar{
+        margin:0px;
+        width:100%;
+    }
+}
+
